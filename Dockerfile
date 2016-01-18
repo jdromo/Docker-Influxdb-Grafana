@@ -1,5 +1,5 @@
 FROM debian:latest
-MAINTAINER David Romo <david_romo@ymail.com>
+MAINTAINER David Romo <david_romo26@ymail.com>
 
 # Default versions
 ENV STATSD_VERSION 0.7.2
